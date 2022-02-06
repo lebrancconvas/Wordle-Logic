@@ -6,7 +6,15 @@ const WordDatabase = [
     "Fire",
     "Thunder",
     "Chronicle",
-    "Elixir"
+    "Elixir",
+    "Modder",
+    "Haste",
+    "Spray",
+    "Ballard",
+    "Hello",
+    "Sword",
+    "Sheild",
+    "Ball"
 ]
 
 module.exports = WordDatabase;
