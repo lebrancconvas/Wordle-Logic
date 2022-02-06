@@ -1,0 +1,8 @@
+{
+    "name": "wordlelogic",
+    "version": "1.0.0",
+    "main": "app.js",
+    "repository": "https://github.com/lebrancconvas/Wordle-Logic.git",
+    "author": "lebrancconvas <lebrancconvas@gmail.com>",
+    "license": "MIT"
+}
