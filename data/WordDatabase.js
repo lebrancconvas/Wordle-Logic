@@ -1,20 +1,18 @@
 const WordDatabase = [
-    "Luck",
     "Spell",
-    "Potion",
-    "Dagger",
-    "Fire",
-    "Thunder",
-    "Chronicle",
-    "Elixir",
-    "Modder",
     "Haste",
-    "Spray",
-    "Ballard",
-    "Hello",
-    "Sword",
-    "Sheild",
-    "Ball"
+    "Taste",
+    "Chaty",
+    "Kitty",
+    "Growl",
+    "Chalk",
+    "Shark",
+    "Shock",
+    "Knock",
+    "Babel",
+    "Jelly",
+    "Magic",
+    "Stick"
 ]
 
 module.exports = WordDatabase;

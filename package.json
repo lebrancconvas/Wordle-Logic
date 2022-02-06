@@ -1,7 +1,7 @@
 {
     "name": "wordlelogic",
     "version": "1.0.0",
-    "main": "app.js",
+    "main": "wordle.js",
     "repository": "https://github.com/lebrancconvas/Wordle-Logic.git",
     "author": "lebrancconvas <lebrancconvas@gmail.com>",
     "license": "MIT",
@@ -9,8 +9,8 @@
         "nodemon": "^2.0.15"
     },
     "scripts": {
-        "start": "node app.js",
-        "test": "node app.js",
-        "dev": "nodemon app.js"
+        "start": "node wordle.js",
+        "test": "node wordle.js",
+        "dev": "nodemon wordle.js"
     }
 }

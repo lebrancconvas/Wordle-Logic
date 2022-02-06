@@ -2,8 +2,8 @@ const WordDatabase = require('./data/WordDatabase');
 
 // Init Value.
 const randomIndicator = Math.floor(Math.random() * WordDatabase.length);
-const WordQuiz = WordDatabase[1];
-const UserAnswer = "spell"
+const WordQuiz = WordDatabase[3];
+const UserAnswer = "chaty"
 
 // Convert to Upper for easy to manage.
 const WordDatabaseUpper = WordDatabase.map(x => x.toUpperCase());
